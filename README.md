@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1:
 creating a function 
 ### Step 2: 
-Get the list which need to be circulated 
+Get the list which need to be circulated.
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
@@ -23,10 +23,10 @@ def circulate():
     b=int(input())
     c=a[b:]+a[:b]
     print("After circulating the values are:",c)
-    ~~~
+~~~
 
 ## Output:
-![circulating n variables](/circulating%20n%20variables.png)
+![input and expected ](/circulating%20n%20variables.png)
 ![ciruclating n variables](/circulate.png)
 
 ## Result:
